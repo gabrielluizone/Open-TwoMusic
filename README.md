@@ -1,4 +1,4 @@
-# Open-TwoMusic
+# Open TwoMusic
 Musicas Livres para Download | Gabriel Two
 
 ![](OpenBanner.png)
